@@ -28,14 +28,14 @@ void setup() {
   f = createFont("Arial",16,true); // STEP 2 Create Font
   
   // Import images
-  img = loadImage("weather.png");
-  imgSpotify = loadImage("spotify.png");
-  imgCal = loadImage("calendar.png");
-  imgFit = loadImage("fit.png");
-  imgUber = loadImage("uber.png");
-  imgMessage = loadImage("message.png");
-  imgJJ = loadImage("jj.png");
-  imgBat = loadImage("battery.png");
+  img = loadImage("img/weather.png");
+  imgSpotify = loadImage("img/spotify.png");
+  imgCal = loadImage("img/calendar.png");
+  imgFit = loadImage("img/fit.png");
+  imgUber = loadImage("img/uber.png");
+  imgMessage = loadImage("img/message.png");
+  imgJJ = loadImage("img/jj.png");
+  imgBat = loadImage("img/battery.png");
 }
 
 void draw() {
